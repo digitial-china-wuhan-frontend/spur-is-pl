@@ -19,13 +19,8 @@ h2 {
 /**
  * Heading 3 base styles
  */
-h3 {
-	@include typographyHeadingMed2();
-}
+
 
 /**
  * Heading 4 base styles
  */
-h4 {
-	@include typographyHeadingMed();
-}

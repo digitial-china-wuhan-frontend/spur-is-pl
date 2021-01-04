@@ -1,4 +1,22 @@
 {
-	"logoImg": "../../images/logo.png",
-	"cardImg": "../../images/400x300.png"
+	"logoImgs": [
+		{
+			"logopath": "../../images/logo.png",
+			"logo": "logo"
+		},
+		{
+			"logopath": "../../images/logo-text.png",
+			"logo": "logo-text"
+		}
+	],
+	"cardImgs":[
+		{
+			"imgpath": "../../images/142x142.png",
+			"name": "142x142"
+		},
+		{
+			"imgpath": "../../images/674x234.png",
+			"name": "674x234"
+		}
+	]
 }

@@ -41,32 +41,28 @@
  * Brand Colors
  * 1) Brand=specific colors
  */
-$color-brand-blue: #0000ff;
+$color-brand-blue: #2E47B3;;
 
 /**
  * Neutral Colors
  * 1) Neutral colors are grayscale values used throughout the UI
  */
 $color-neutral-white: #fff;
-$color-neutral-gray-02: #f9f9f9;
-$color-neutral-gray-07: #eee;
-$color-neutral-gray-13: #ddd;
-$color-neutral-gray-27: #bbb;
-$color-neutral-gray-50: #808080;
-$color-neutral-gray-60: #666;
-$color-neutral-gray-73: #444;
-$color-neutral-gray-93: #131313;
+$color-neutral-gray-08: rgba(0, 0, 0, 0.08);
+$color-neutral-gray-15: rgba(0, 0, 0, 0.15);
+$color-neutral-gray-45: rgba(0, 0, 0, 0.45);
+$color-neutral-gray-65: rgba(0, 0, 0, 0.65);
+$color-neutral-gray-85: rgba(0, 0, 0, 0.85);
 $color-neutral-black: #000;
+
 
 /**
  * Utility Colors
  * 1) Utility colors are colors used to provide feedback, such as alert messages,
  *    form validation, etc.
  */
-$color-utility-info: #0192d0;
-$color-utility-error: #b12a0b;
-$color-utility-success: #03804d;
-$color-utility-warning: #a59b15;
+
+
 
 /*------------------------------------*\
     #TYPOGRAPHY
@@ -75,28 +71,24 @@ $color-utility-warning: #a59b15;
 /**
  * Font Family
  */
-$font-family-primary: "HelveticaNeue", "Helvetica", "Arial", sans-serif;
-$font-family-secondary: serif;
+$font-family-primary: "PingFangTC-Regular", "PingFangTC";
+// $font-family-secondary: serif;
+
 
 /**
  * Font Sizing
  */
-$font-size-sm: 0.75rem;
-$font-size-sm-2: 0.85rem;
-$font-size-med: 1rem;
-$font-size-med-2: 1.2rem;
-$font-size-large: 2rem;
-$font-size-xl: 3rem;
+$font-size-14: 14px;
+$font-size-16: 16px;
+$font-size-22: 22px;
+$font-size-34: 34px;
+
 
 /**
  * Line Height
  */
-$line-height-sm: 0.8;
-$line-height-sm-2: 0.9;
-$line-height-med: 1;
-$line-height-med-2: 1.2;
-$line-height-large: 1.6;
-$line-height-xl: 1.8;
+$line-height-normal: 1.5;
+$line-height-sm: 1;
 
 /*------------------------------------*\
     #LAYOUT
@@ -105,6 +97,7 @@ $line-height-xl: 1.8;
 /**
  * Max Width
  */
+
 $l-max-width: 60rem !default;
 $l-linelength-width: 36rem !default;
 

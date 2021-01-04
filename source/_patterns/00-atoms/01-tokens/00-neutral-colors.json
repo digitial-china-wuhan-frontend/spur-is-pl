@@ -6,43 +6,28 @@
       "comment": ""
     },
     {
-      "name": "$color-neutral-gray-02",
-      "value": "#f9f9f9",
+      "name": "$color-neutral-gray-08",
+      "value": "rgba(0, 0, 0, 0.08)",
       "comment": ""
     },
     {
-      "name": "$color-neutral-gray-07",
-      "value": "#eee",
+      "name": "$color-neutral-gray-15",
+      "value": "rgba(0, 0, 0, 0.15)",
       "comment": ""
     },
     {
-      "name": "$color-neutral-gray-13",
-      "value": "#ddd",
+      "name": "$color-neutral-gray-45",
+      "value": "rgba(0, 0, 0, 0.45)",
       "comment": ""
     },
     {
-      "name": "$color-neutral-gray-27",
-      "value": "#bbb",
+      "name": "$color-neutral-gray-65",
+      "value": "rgba(0, 0, 0, 0.65)",
       "comment": ""
     },
     {
-      "name": "$color-neutral-gray-50",
-      "value": "#808080",
-      "comment": ""
-    },
-    {
-      "name": "$color-neutral-gray-60",
-      "value": "#666",
-      "comment": ""
-    },
-    {
-      "name": "$color-neutral-gray-73",
-      "value": "#444",
-      "comment": ""
-    },
-    {
-      "name": "$color-neutral-gray-93",
-      "value": "#131313",
+      "name": "$color-neutral-gray-85",
+      "value": "rgba(0, 0, 0, 0.85)",
       "comment": ""
     },
     {

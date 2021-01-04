@@ -1,34 +1,18 @@
 {
-	"iconPath": "../../icons.svg",
+	"iconPath": "../../icons/search.png",
 	"icon": "search",
 	"icons": [
 		{
-			"iconPath": "../../icons.svg",
-			"icon": "minus"
+			"iconPath": "../../icons/user-sm.png",
+			"icon": "user-sm"
 		},
 		{
-			"iconPath": "../../icons.svg",
-			"icon": "plus"
+			"iconPath": "../../icons/user-med.png",
+			"icon": "user-med"
 		},
 		{
-			"iconPath": "../../icons.svg",
-			"icon": "search"
-		},
-		{
-			"iconPath": "../../icons.svg",
-			"icon": "triangle-down"
-		},
-		{
-			"iconPath": "../../icons.svg",
-			"icon": "triangle-up"
-		},
-		{
-			"iconPath": "../../icons.svg",
-			"icon": "triangle-right"
-		},
-		{
-			"iconPath": "../../icons.svg",
-			"icon": "triangle-left"
+			"iconPath": "../../icons/user-l.png",
+			"icon": "user-l"
 		}
 	]
 }
