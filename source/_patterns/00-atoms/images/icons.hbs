@@ -1,8 +1,8 @@
 <ul class="icon-grid">
     {{#each icons}}
     <li class="icon-grid__item icon-bg">
-        <img src="{{ this.iconPath }}" alt="{{ alt }}" />
-        <span class="icon-grid__label">{{ this.icon }}</span>
+        {{> atoms-icon iconPath=this.iconPath }}
+        <span class="icon-grid__label">{{ icon }}</span>
     </li>
     {{/each}}
 </ul>

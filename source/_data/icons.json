@@ -1,17 +1,17 @@
 {
-	"iconPath": "../../icons/search.png",
+	"iconPath": "../../images/icons/search.png",
 	"icon": "search",
 	"icons": [
 		{
-			"iconPath": "../../icons/user-sm.png",
+			"iconPath": "../../images/icons/user-sm.png",
 			"icon": "user-sm"
 		},
 		{
-			"iconPath": "../../icons/user-med.png",
+			"iconPath": "../../images/icons/user-med.png",
 			"icon": "user-med"
 		},
 		{
-			"iconPath": "../../icons/user-l.png",
+			"iconPath": "../../images/icons/user-l.png",
 			"icon": "user-l"
 		}
 	]
