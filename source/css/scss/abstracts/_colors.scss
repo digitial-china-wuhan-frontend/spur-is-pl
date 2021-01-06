@@ -35,7 +35,7 @@ $color-text-highlight-bg: $color-neutral-gray-15;
     #LINKS
 \*------------------------------------*/
 $color-links: $color-neutral-gray-65 !default;
-$color-links-hover: $color-neutral-black!default;
+$color-links-hover: $color-neutral-gray-65!default;
 $color-links-active: $color-neutral-gray-65 !default;
 $color-links-visited: $color-neutral-gray-65 !default;
 
@@ -45,5 +45,7 @@ $color-links-visited: $color-neutral-gray-65 !default;
 \*------------------------------------*/
 
 $color-btn-primary: $color-brand-blue !default;
-
+$color-btn-primary-bg: $color-brand-blue !default;
+$color-btn-primary-bg-hover: $color-brand-blue !default;
+$color-btn-primary-border: $color-brand-blue !default;
 

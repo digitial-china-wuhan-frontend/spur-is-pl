@@ -1,9 +1,7 @@
 {
-	"buttonTag" : true,
-	"buttonText" : "",
-    "buttonGroup" : [
-        {},
-        {},
-        {}
-    ]
+  "buttonTag": true,
+  "buttonText": "",
+  "buttonIcon": true,
+  "buttonGroup": [{}, {}, {}]
+  
 }

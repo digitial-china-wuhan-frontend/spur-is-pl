@@ -22,4 +22,5 @@ body {
 	@include typographyBody();
 	background-color: $color-body-bg;
 	color: $color-body-text;
+	box-sizing: border-box;
 }
