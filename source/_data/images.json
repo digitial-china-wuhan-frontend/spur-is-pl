@@ -9,14 +9,8 @@
 			"logo": "logo-text"
 		}
 	],
-	"cardImgs":[
-		{
-			"imgpath": "../../images/142x142.png",
-			"name": "142x142"
-		},
-		{
-			"imgpath": "../../images/674x234.png",
-			"name": "674x234"
-		}
-	]
+	"cardImage": "../../images/142x142.png",
+
+	"textImage": "../../images/674x234.png"
+
 }
