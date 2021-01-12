@@ -1,0 +1,13 @@
+/*------------------------------------*\
+    #GRID
+\*------------------------------------*/
+
+/**
+ * Primary Grid  
+ */
+.l-grid {
+	display: grid;
+	grid-gap: 8px;
+	grid-template-columns: repeat(24, 4.166%);
+	// margin-bottom: 2rem;
+}
