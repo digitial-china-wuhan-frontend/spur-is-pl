@@ -1,0 +1,31 @@
+.c-card {
+	display: grid ;
+	grid-column-gap: 8px;
+	grid-template-columns: repeat(24, 4.166%);
+	// padding: $spacing;
+	max-width: 1200px;
+	transition: all $anim-fade-quick $anim-ease;
+
+	&:hover,
+	&:focus {
+		// border-color: $color-neutral-gray-15;
+		// background: $color-neutral-gray-08;
+	}
+}
+
+.c-card__left{
+	grid-column: 1 / 11;
+}
+
+.c-card__title{
+	color: $color-neutral-gray-85;
+}
+
+.c-card__time{
+	color: $color-neutral-gray-45;
+}
+
+.c-card__right{
+	grid-column: 12 / 15;
+}
+
