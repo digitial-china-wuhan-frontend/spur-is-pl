@@ -1,0 +1,40 @@
+/*------------------------------------*\
+    #PRIMARY NAVIGATION
+\*------------------------------------*/
+
+/**
+ * Primary navigation existing in the header and maybe the footer
+ */
+.c-primary-nav {
+	margin-left: auto;
+}
+
+/**
+ * Primary navigation list
+ */
+.c-primary-nav__list {
+	display: flex;
+}
+
+/**
+ * Primary navigation item
+ */
+.c-primary-nav__item {
+	margin-left: 40px;
+}
+
+/**
+ * Primary navigation link
+ */
+.c-primary-nav__link {
+	display: block;
+	cursor: pointer;
+
+	&:hover{
+		color: $color-neutral-black;
+	}
+
+	&:active {
+		color: $color-neutral-black;
+	}
+}
